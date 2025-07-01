@@ -43,6 +43,8 @@ Code of the **SCIENCE CHINA Information Sciences** 2025 paper "*Event-Enhanced S
    The quantitative results will be save in "opFolder/res.txt"
 
    
+## Training
+Run **train_frame.py**, **train_ef.py**, and **train_total.py** step by step to train the model. Make sure to change the dataset path and the model weight path for the previous stage in the file.
 
 
 ## Citation
