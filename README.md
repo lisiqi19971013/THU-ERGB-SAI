@@ -18,11 +18,11 @@ Code of the **SCIENCE CHINA Information Sciences** 2025 paper "*Event-Enhanced S
 
 ## Dataset
 
-1. Our $\text{THU}^\text{ERGB-SAI}$ dataset could be downloaded from https://github.com/lisiqi19971013/event-based-datasets. 
+1. Our $\text{THU}^\text{ERGB-SAI}$ dataset could be downloaded from https://github.com/lisiqi19971013/event-based-datasets. Our dataset contains multi-modal visual data for occluded image generation.
 
 2. Download the pre-trained model from https://cloud.tsinghua.edu.cn/f/9be2a009d5394feba4d9/?dl=1.
 
-   
+> Acknowledgment. The construction of this dataset is supported by CCF-Tencent Open Research Fund.
 
 ## Evaluation
 
